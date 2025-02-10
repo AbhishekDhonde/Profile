@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/Profile">
           <div className="App">
             <header className="App-header">
               <h1>Professional Profile</h1>
