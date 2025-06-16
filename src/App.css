@@ -2,35 +2,29 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #000; /* Set the background to black */
+  color: #fff; /* Set the text color to white for better contrast */
   text-align: left;
 }
 
 .App {
   width: 100%;
   margin: 40px auto;
-  background: white;
+  background: #1a1a1a; /* Dark gray background for the content container */
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1); /* Adjust shadow for dark theme */
 }
 
 .App-header {
-  background-color: #007bff;
+  background-color: #333; /* Darker header background */
   color: white;
   padding: 20px;
   border-radius: 10px 10px 0 0;
 }
 
-h1 {
-  margin: 0;
-}
-
-h2 {
-  color: #333;
-  border-bottom: 2px solid #007bff;
-  padding-bottom: 5px;
-  margin-bottom: 20px;
+h1, h2 {
+  color: #fff; /* Set headings to white */
 }
 
 ul {
@@ -43,7 +37,7 @@ li {
 }
 
 strong {
-  color: #007bff;
+  color: #1e90ff; /* Bright blue for emphasis */
 }
 
 section {
@@ -51,7 +45,7 @@ section {
 }
 
 footer {
-  background-color: #007bff;
+  background-color: #333; /* Darker footer background */
   color: white;
   padding: 10px;
   border-radius: 0 0 10px 10px;
@@ -81,7 +75,7 @@ footer p {
 }
 
 .documents a {
-  color: #007bff;
+  color: #1e90ff; /* Bright blue for links */
   text-decoration: none;
   font-weight: bold;
 }
@@ -93,10 +87,10 @@ footer p {
 .documents-page {
   max-width: 800px;
   margin: 40px auto;
-  background: white;
+  background: #1a1a1a; /* Dark gray background for documents */
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
 }
 
 .document-frame {
@@ -104,4 +98,29 @@ footer p {
   height: 500px;
   border: lightgray 1px solid;
   margin-bottom: 20px;
+}
+
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.tabs button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #333; /* Darker background for tabs */
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.tabs button.active {
+  background-color: #1e90ff; /* Bright blue for active tab */
+  color: white;
+}
+
+.tab-content {
+  margin-top: 20px;
 }
