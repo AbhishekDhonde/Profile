@@ -24,7 +24,7 @@ function App() {
                     <h2>Personal Information</h2>
                     <ul>
                       <li><strong>Name:</strong> Abhishek Dnyaneshwar Dhonde</li>
-                      <li><strong>Email:</strong> abhishekdhonde1993@gmail.com</li>
+                      <li><strong>Email:</strong> abhishekdhonde0@gmail.com</li>
                       <li><strong>Phone:</strong> (+91) 8830079372/9421207743</li>
                       <li><strong>Current Address:</strong> Sairang Residancy, Bhosari, pune, Maharshtra, India PIN-412105</li>
                     </ul>
@@ -73,7 +73,7 @@ function App() {
                       <li><strong>DOB:</strong> 20 January, 1993</li>
                       <li><strong>Marital Status:</strong> Married</li>
                       <li><strong>Languages Known:</strong> Marathi, Hindi, English.</li>
-                      <li><strong>Email:</strong> abhishekdhonde0@gmail.com</li>
+                      <li><strong>Email:</strong> abhishekdhonde0@gmail.com/abhishekdhonde1993@gmail.com</li>
                       <li><strong>Phone:</strong> (+91) 8830079372/9421207743</li>
                       <li><strong>Strengths:</strong> Positive thinker, Hard working, Quick learner, Honest, Friendly.
                       Weakness: Not quick to trust, afraid of loneliness.</li>
@@ -87,6 +87,7 @@ function App() {
                     <h2>Key Competencies & Technical Skills</h2>
                     <ul>
                       <li><i className="fas fa-code"></i> JavaScript</li>
+                      <li><i className="fab fa-java"></i> Java</li>
                       <li><i className="fab fa-react"></i> React</li>
                       <li><i className="fab fa-node-js"></i> Node.js</li>
                       <li><i className="fas fa-file-code"></i> HTML, CSS</li>
@@ -123,7 +124,7 @@ function App() {
                       <h4>Role & Responsibility</h4>
                       <ul>
                         <li><i className="fas fa-check-circle"></i> Performing test analysis which includes requirement understanding, effort estimation, test plan, and test case preparation for new Service requests (SR) and change requests (CR).</li>
-                        <li><i className="fas fa-check-circle"></i> Developing a robust automated testing framework using Python and Selenium WebDriver to validate web application functionality across multiple browsers and platforms.</li>
+                        <li><i className="fas fa-check-circle"></i> Developing a robust automated testing framework using Java and Selenium WebDriver to validate web application functionality across multiple browsers and platforms.</li>
                         <li><i className="fas fa-check-circle"></i> Preparation of Python or Java scripts to generate test data.</li>
                         <li><i className="fas fa-check-circle"></i> Implemented reusable test scripts and page objects to improve maintainability and scalability of automated tests.</li>
                         <li><i className="fas fa-check-circle"></i> CICD pipeline setup to integrate Security scan Snyk, test execution steps etc.</li>
