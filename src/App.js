@@ -37,12 +37,12 @@ function App() {
                 <p> Dedicated and experienced Software Quality Assurance Engineer with a solid background in manual and automation
                   testing. Proficient in Python and JavaScript with a strong understanding of software development principles. Skilled in
                   utilizing industry-standard testing tools and technologies, including Git, Jenkins, and various IDEs. Possesses
-                  comprehensive knowledge of Cloud Platform (GCP) & services. Proven ability to collaborate effectively within cross
+                  comprehensive knowledge of Cloud Platform (GCP), Azure  & services. Proven ability to collaborate effectively within cross
                   functional teams to ensure high-quality software deliverable s.</p>
                 <h2>Professional Summary</h2>
                 <ul>
                   <li><i className="fas fa-check-circle"></i> I have three years of experience in the mechanical industry before transitioning into the IT field. For the past year, I’ve been working as a Full Stack Engineer, taking on responsibilities including development, testing, CI/CD setup, and deployments.</li>
-                  <li><i className="fas fa-check-circle"></i> Overall 3 years of Experience in the IT industry with expertise in Manual and Automation Testing like Black box, Smoke, Sanity, Integration, Functional, Regression, database, and writing test cases.</li>
+                  <li><i className="fas fa-check-circle"></i> More Than 4.5 years of Experience in the IT industry with expertise in Manual and Automation Testing like Black box, Smoke, Sanity, Integration, Functional, Regression, database, and writing test cases.</li>
                   <li><i className="fas fa-check-circle"></i> Conducted comprehensive manual testing of UI and API applications to identify defects and ensure adherence to quality standards.</li>
                   <li><i className="fas fa-check-circle"></i> Developed and executed automated test scripts using Selenium WebDriver and REST Assured for API testing, resulting in improved test coverage and efficiency.</li>
                   <li><i className="fas fa-check-circle"></i> Collaborated with cross-functional teams to define test strategies, create test plans, and prioritize testing activities based on project timelines and requirements.</li>
@@ -51,6 +51,7 @@ function App() {
                   <li><i className="fas fa-check-circle"></i> Identified, reported, and tracked software defects using issue tracking systems such as Jira, ensuring timely resolution and effective communication with development teams.</li>
                   <li><i className="fas fa-check-circle"></i> Participated in Agile ceremonies, including sprint planning, daily stand-ups, and retrospectives, to provide valuable input on testing efforts and project progress.</li>
                   <li><i className="fas fa-check-circle"></i> Received the "Bright Beginner" award during the probation period in 2022 for outstanding performance and dedication.</li>
+                  <li><i className="fas fa-check-circle"></i> Recognized as the "Best Performer of the Year" during the period (2024–2025).</li>     
                 </ul>
               </section>
 
@@ -95,6 +96,7 @@ function App() {
                     <li><i className="fas fa-check-circle"></i> Developing a robust automated testing framework using Python and Selenium WebDriver to validate web application functionality across multiple browsers and platforms.</li>
                     <li><i className="fas fa-check-circle"></i> Preparation of Python or Java scripts to generate test data.</li>
                     <li><i className="fas fa-check-circle"></i> Implemented reusable test scripts and page objects to improve maintainability and scalability of automated tests.</li>
+                    <li><i className="fas fa-check-circle"></i> 	CICD pipeline setup to integrate Security scan Snyk, test execution steps etc.</li>
                     <li><i className="fas fa-check-circle"></i> Integrated the testing framework with Jenkins for continuous integration and executed tests as part of the CI/CD pipeline.</li>
                     <li><i className="fas fa-check-circle"></i> Execution of Test Cases and reporting to the manager.</li>
                     <li><i className="fas fa-check-circle"></i> Developed Test Cases to test the functionality and change functionality of the application from the BRD (Business Requirement Documents/Contract).</li>
