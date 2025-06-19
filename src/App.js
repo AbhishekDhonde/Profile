@@ -100,6 +100,8 @@ function App() {
                       <li><i className="fas fa-table"></i> Advanced Excel Modelling</li>
                       <li><i className="fas fa-user-check"></i> User Acceptance Testing</li>
                       <li><i className="fab fa-jira"></i> Jira</li>
+                      <li><i className="fas fa-tools"></i> JMeter</li>
+                      <li><i className="fas fa-paper-plane"></i> Postman</li>
                       <li><i className="fab fa-python"></i> PYTHON</li>
                       <li><i className="fas fa-code-branch"></i> Git Version Control</li>
                       <li><i className="fas fa-cogs"></i> Jenkins Continuous Integration</li>
@@ -125,6 +127,7 @@ function App() {
                         <li><i className="fas fa-check-circle"></i> Performing test analysis which includes requirement understanding, effort estimation, test plan, and test case preparation for new Service requests (SR) and change requests (CR).</li>
                         <li><i className="fas fa-check-circle"></i> Developing a robust automated testing framework using Java and Selenium WebDriver to validate web application functionality across multiple browsers and platforms.</li>
                         <li><i className="fas fa-check-circle"></i> Preparation of Python or Java scripts to generate test data.</li>
+                        <li><i className="fas fa-check-circle"></i> 	Performed Performance testing on API and micro service APIs with JMeter, Postman etc. tools.</li>
                         <li><i className="fas fa-check-circle"></i> Implemented reusable test scripts and page objects to improve maintainability and scalability of automated tests.</li>
                         <li><i className="fas fa-check-circle"></i> CICD pipeline setup to integrate Security scan Snyk, test execution steps etc.</li>
                         <li><i className="fas fa-check-circle"></i> Integrated the testing framework with Jenkins for continuous integration and executed tests as part of the CI/CD pipeline.</li>
