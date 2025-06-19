@@ -112,6 +112,7 @@ function App() {
                       <li><i className="fab fa-dev"></i> Azure DevOps</li>
                       <li><i className="fas fa-check"></i> TestNG</li>
                       <li><i className="fas fa-leaf"></i> Cucumber</li>
+                      <li><i class="fas fa-database"></i> SQL (PostgreSQL Database)</li>
                     </ul>
                   </section>
                 )}
@@ -127,7 +128,8 @@ function App() {
                         <li><i className="fas fa-check-circle"></i> Performing test analysis which includes requirement understanding, effort estimation, test plan, and test case preparation for new Service requests (SR) and change requests (CR).</li>
                         <li><i className="fas fa-check-circle"></i> Developing a robust automated testing framework using Java and Selenium WebDriver to validate web application functionality across multiple browsers and platforms.</li>
                         <li><i className="fas fa-check-circle"></i> Preparation of Python or Java scripts to generate test data.</li>
-                        <li><i className="fas fa-check-circle"></i> 	Performed Performance testing on API and micro service APIs with JMeter, Postman etc. tools.</li>
+                        <li><i className="fas fa-check-circle"></i> Performed Performance testing on API and micro service APIs with JMeter, Postman etc. tools.</li>
+                        <li><i className="fas fa-check-circle"></i> Performed functional and performance testing on PostgreSQL databases by executing complex SQL queries, optimizing indexing strategies, and validating data integrity across application layers.</li>
                         <li><i className="fas fa-check-circle"></i> Implemented reusable test scripts and page objects to improve maintainability and scalability of automated tests.</li>
                         <li><i className="fas fa-check-circle"></i> CICD pipeline setup to integrate Security scan Snyk, test execution steps etc.</li>
                         <li><i className="fas fa-check-circle"></i> Integrated the testing framework with Jenkins for continuous integration and executed tests as part of the CI/CD pipeline.</li>
