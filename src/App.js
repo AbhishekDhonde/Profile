@@ -56,7 +56,6 @@ function App() {
                       functional teams to ensure high-quality software deliverable s.</p>
                     <h2>Professional Summary</h2>
                     <ul>
-                      <li><i className="fas fa-check-circle"></i> I have three years of experience in the mechanical industry before transitioning into the IT field. For the past year, I’ve been working as a Full Stack Engineer, taking on responsibilities including development, testing, CI/CD setup, and deployments.</li>
                       <li><i className="fas fa-check-circle"></i> More Than 4.5 years of Experience in the IT industry with expertise in Manual and Automation Testing like Black box, Smoke, Sanity, Integration, Functional, Regression, database, and writing test cases.</li>
                       <li><i className="fas fa-check-circle"></i> Conducted comprehensive manual testing of UI and API applications to identify defects and ensure adherence to quality standards.</li>
                       <li><i className="fas fa-check-circle"></i> Developed and executed automated test scripts using Selenium WebDriver and REST Assured for API testing, resulting in improved test coverage and efficiency.</li>
@@ -147,19 +146,6 @@ function App() {
                         <li><i className="fas fa-check-circle"></i> Performed Regression Testing before every Release.</li>
                         <li><i className="fas fa-check-circle"></i> Performed Smoke testing on QA Environment daily before approving the daily Build.</li>
                         <li><i className="fas fa-check-circle"></i> Performed Sanity Testing before delivery of any Release.</li>
-                      </ul>
-                    </div>
-                    <div className="experience-section">
-                      <h3>Senior Engineer at Crystal Enterprises, Pune (Mechanical Industry).</h3>
-                      <p><em>February 2018 - June 2021</em></p>
-                      <h4>Role & Responsibility</h4>
-                      <ul>
-                        <li><i className="fas fa-check-circle"></i> Performed the activity related to design and production.</li>
-                        <li><i className="fas fa-check-circle"></i> Prepared the drawings by using AUTOCAD and CATIA software.</li>
-                        <li><i className="fas fa-check-circle"></i> Assigned the task to production team members.</li>
-                        <li><i className="fas fa-check-circle"></i> Made planning to utilize all tools and resources effectively.</li>
-                        <li><i className="fas fa-check-circle"></i> Organized meetings to understand the status of ongoing projects and reported it to senior authorities.</li>
-                        <li><i className="fas fa-check-circle"></i> Coordinated with customer requirements and production team.</li>
                       </ul>
                     </div>
                   </section>
